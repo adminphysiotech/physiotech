@@ -1,3 +1,4 @@
+# Cloud Shell specific files
 .bash_history
 .bash_logout
 .bashrc
@@ -13,8 +14,8 @@ README-cloudshell.txt
 policy.yaml
 workspace-admin.json
 
-Python specific ignores
-pycache /
+# Python specific ignores
+__pycache__/
 *.pyc
 .venv/
 venv/
