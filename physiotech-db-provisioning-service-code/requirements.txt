@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+cloud-sql-python-connector[psycopg2]
+cryptography
+google-cloud-secret-manager
+google-cloud-pubsub

@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+cloud-sql-python-connector[psycopg2] # This handles the connector and psycopg2-binary
+cryptography                       # Ensure cryptography is installed
+google-cloud-secret-manager
+google-cloud-pubsub
+requests
